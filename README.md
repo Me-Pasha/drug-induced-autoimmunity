@@ -1,4 +1,5 @@
 # Drug Induced Autoimmunity Prediction
+Dataset used: [Drug Induced Autoimmunity Prediction Dataset (UCI)](https://archive.ics.uci.edu/dataset/1104/drug_induced_autoimmunity_prediction)
 ## Project Overview
 Drug-induced autoimmunity (DIA) refers to the onset of autoimmune responses triggered by certain medications, leading the immune system to mistakenly attack the body’s own tissues. This phenomenon can result in clinical conditions resembling autoimmune diseases such as lupus, hepatitis, or vasculitis. Identifying and predicting drugs with potential to induce autoimmunity is critical for ensuring patient's safety and guiding drug development.
 
